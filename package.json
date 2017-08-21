@@ -1,0 +1,18 @@
+{
+  "name": "gladys-googledrive",
+  "version": "0.1.0",
+  "description": "Google Drive module to backup database and push it on Gdrive storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gladys",
+    "backup",
+    "google drive"
+  ],
+  "author": "C4rlit0",
+  "dependencies": {
+    "shelljs": "^0.7.8"
+  }
+}
